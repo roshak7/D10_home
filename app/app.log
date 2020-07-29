@@ -1,0 +1,9 @@
+[29Jul 13:47:41] INFO [django.utils.autoreload:598] Watching for file changes with StatReloader
+[29Jul 13:48:11] WARNING [django.request:228] Not Found: /
+[29Jul 13:49:15] WARNING [django.request:228] Not Found: /
+[29Jul 13:50:03] INFO [django.utils.autoreload:598] Watching for file changes with StatReloader
+[29Jul 13:50:09] WARNING [django.request:228] Not Found: /
+[29Jul 13:51:56] INFO [django.utils.autoreload:222] C:\Users\KUB\Desktop\app\blog\models.py changed, reloading.
+[29Jul 13:51:58] INFO [django.utils.autoreload:598] Watching for file changes with StatReloader
+[29Jul 13:54:29] INFO [django.utils.autoreload:598] Watching for file changes with StatReloader
+[29Jul 13:54:30] WARNING [django.request:228] Not Found: /
